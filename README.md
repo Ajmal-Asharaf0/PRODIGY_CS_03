@@ -19,21 +19,21 @@ Usage
 
     bash
 
-git clone https://github.com/Ajmal-Asharaf0/password-strength-checker.git
+    git clone https://github.com/Ajmal-Asharaf0/password-strength-checker.git
 
 Navigate to the project directory:
 
-bash
+ bash
 
-cd password-strength-checker
+    cd password-strength-checker
 
 Run the script:
 
 bash
 
-python password_strength.py
+    python password_strength.py
 
-Enter a password when prompted:
+    Enter a password when prompted:
 
 bash
 
